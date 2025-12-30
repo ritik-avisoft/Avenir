@@ -1,0 +1,5 @@
+playwright
+behave
+pytest
+allure-behave
+python-dotenv
